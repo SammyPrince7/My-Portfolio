@@ -61,7 +61,7 @@ Created a dashboard on Excel & Power BI to help analyze total number of staffs, 
     </tr>
     <tr>
       <td>⬇️</td>
-      <td><a href="https://etuk123456.github.io/portfolio1/docs/Profile.pdf">Download my CV</a></td>
+      <td><a href="Resume-1.docx">Download my CV</a></td>
     </tr>
     <tr>
       <td>🌐</td>
