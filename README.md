@@ -10,9 +10,9 @@ without real-life experience, i'm looking forward to working with you and build-
 
 **- ✅ Data Cleaning and Trnsformation.** 
 
-**- ✅ Data Wrangling.
+**- ✅ Data Wrangling.**
 
-**- ✅ Data Visualization and Modelling.
+**- ✅ Data Visualization and Modelling.**
 
 
 
