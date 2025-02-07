@@ -23,17 +23,20 @@ without real-life experience, i'm looking forward to working with you and build-
 
 **Personal Project at Data Driven Excel: Vanquish Backlogs.**
 ![image](1 akintoye samuel data analytics car project.jpeg)
+
 Utilized Power BI to perform sentiment analysis that shows the drivers’ info, delivery delays, customers’ feedback and total order made of the delivery company.
 
 
 **Beyondcars Sales Analysis/Report.**
 
 ![image](2 akintoye samuel data analytics sales (linguistics/delivery) project.jpg) 
+
 Created a dashbord to hlp visualize the total number of cars sold, different car brands and models purchased.
 
 **HR Attrition Interactive Dashboard.**
 
 ![image](3 akintoye samuel analytics atrrition project.jpg)
+
 Created a dashboard on Excel & Power BI to help analyze total number of staffs, attrition rate, number of attrition and number of active staffs.
 
 
