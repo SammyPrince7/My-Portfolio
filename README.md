@@ -35,7 +35,7 @@ Created a dashbord to hlp visualize the total number of cars sold, different car
 
 **HR Attrition Interactive Dashboard.**
 
-![image](3 akintoye samuel analytics atrrition project.jpg)
+![image](HR Attrition Dashboard.PNG)
 
 Created a dashboard on Excel & Power BI to help analyze total number of staffs, attrition rate, number of attrition and number of active staffs.
 
