@@ -38,8 +38,6 @@ Created a dashboard on Excel & Power BI to help analyze total number of staffs, 
 
 
 
-<a href="17 How to Present Data to Executives by Anietie Etuk.pdf">Download the Report here (pdf file)</a>
-
 
 ## CONTACT DETAILS
 
@@ -48,11 +46,11 @@ Created a dashboard on Excel & Power BI to help analyze total number of staffs, 
   <tbody>
     <tr>
       <td>📧</td>
-      <td><a href="mailto:anietieetuk@gmail.com">anietieetuk@gmail.com</a></td>
+      <td><a href="mailto:samuelakintoye0775@gmail.com">samuelakintoye0775@gmail.com@gmail.com</a></td>
     </tr>
     <tr>
       <td>📞</td>
-      <td>(234) 816-763-7212</td>
+      <td>(234) 704-476-0775</td>
     </tr>
     <tr>
       <td>📍</td>
@@ -64,11 +62,7 @@ Created a dashboard on Excel & Power BI to help analyze total number of staffs, 
     </tr>
     <tr>
       <td>🌐</td>
-      <td><a href="https://linkedin.com/in/etukanietie">The things I do daily on LinkedIn</a></td>
-    </tr>
-    <tr>
-      <td>📺</td>
-      <td><a href="https://www.youtube.com/@LearnwithEtuk">Watch my tutorials on YouTube</a></td>
+      <td><a href="https://www.linkedin.com/in/samuel-akintoye-62505b329/">The things I do daily on LinkedIn</a></td>
     </tr>
   </tbody>
 </table>
