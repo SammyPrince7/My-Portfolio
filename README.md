@@ -2,19 +2,18 @@
 <!--Section 1: Introduce your self-->
 ## ABOUT ME
 
-Hello! I'm Anietie Etuk 🤓, a data analyst, educator, and consultant with a passion for turning data into actionable insights. With experience across sales, operations, finance, and customer service, I help businesses solve challenges and unlock growth.
-
+Hello! I'm Akintoye Samuel 🤓, a data analyst with a passion for turning data into actionable insights. I am 
+without real-life experience, i'm looking forward to working with you and build-up my skills.
 
 <!--Mention your top/relevant skills here - core and soft skills-->
-## WHAT I DO
+## SKILLS
 
-*As the Chief Analyst of SkillAhead Solutions Ltd, I provide consulting and training services for businesses and mentor aspiring analysts.*
+**- ✅ Data Cleaning and Trnsformation.** 
 
-**- ✅ Data Analytics Consulting.**
-I provide in-depth analysis and tailored solutions to help you make data-driven decisions, optimize processes, and drive business growth. 
+**- ✅ Data Wrangling.
 
-**- ✅ Staff Training & Development.**
-I offer comprehensive training programs in data analysis, visualization, and data-driven decision-making. From beginner to advanced levels. 
+**- ✅ Data Visualization and Modelling.
+
 
 
 <!--Section 2: List 3-4 key projects-->
@@ -22,27 +21,22 @@ I offer comprehensive training programs in data analysis, visualization, and dat
 
 *A glimpse of some of the projects I've been working on.*
 
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
-![image](1 anietie etuk data analytics car project.jpeg)
+**Personal Project at Data Driven Excel: Vanquish Backlogs.**
+![image](1 akintoye samuel data analytics car project.jpeg)
+Utilized Power BI to perform sentiment analysis that shows the drivers’ info, delivery delays, customers’ feedback and total order made of the delivery company.
 
-The sinking of the Titanic is one of the most infamous shipwrecks in history.
+
+**Beyondcars Sales Analysis/Report.**
+
+![image](2 akintoye samuel data analytics sales (linguistics/delivery) project.jpg) 
+Created a dashbord to hlp visualize the total number of cars sold, different car brands and models purchased.
+
+**HR Attrition Interactive Dashboard.**
+
+![image](3 akintoye samuel analytics atrrition project.jpg)
+Created a dashboard on Excel & Power BI to help analyze total number of staffs, attrition rate, number of attrition and number of active staffs.
 
 
-[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
-
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
-
-![image](2 anietie etuk data analytics sales project.jpg)
-
-On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. 
-
-[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
-
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
-
-![image](3 anietie etuk data analytics agro project.jpg)
-
-Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew. 
 
 <a href="17 How to Present Data to Executives by Anietie Etuk.pdf">Download the Report here (pdf file)</a>
 
