@@ -57,7 +57,7 @@ Created a dashboard on Excel & Power BI to help analyze total number of staffs, 
     </tr>
     <tr>
       <td>📍</td>
-      <td>PH, Nigeria</td>
+      <td>Lagos, Nigeria</td>
     </tr>
     <tr>
       <td>⬇️</td>
