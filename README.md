@@ -29,7 +29,7 @@ Utilized Power BI to perform sentiment analysis that shows the drivers’ info, 
 
 **Beyondcars Sales Analysis/Report.**
 
-![image](2 akintoye samuel data analytics sales (linguistics/delivery) project.jpg) 
+![image](Vanquish backlogs.PNG) 
 
 Created a dashbord to hlp visualize the total number of cars sold, different car brands and models purchased.
 
