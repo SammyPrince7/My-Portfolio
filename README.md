@@ -22,14 +22,14 @@ without real-life experience, i'm looking forward to working with you and build-
 *A glimpse of some of the projects I've been working on.*
 
 **Personal Project at Data Driven Excel: Vanquish Backlogs.**
-![image]Car Sales Analysis.PNG)
+![image](Vanquish backlogs.PNG)
 
 Utilized Power BI to perform sentiment analysis that shows the drivers’ info, delivery delays, customers’ feedback and total order made of the delivery company.
 
 
 **Beyondcars Sales Analysis/Report.**
 
-![image](Vanquish backlogs.PNG) 
+![image](Car Sales Analysis.PNG) 
 
 Created a dashbord to hlp visualize the total number of cars sold, different car brands and models purchased.
 
