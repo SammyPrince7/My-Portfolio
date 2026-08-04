@@ -31,7 +31,7 @@ A 3-page Power BI capstone project analyzing FIFA World Cup 2026 performance dat
 - Built with custom DAX measures and a normalized data model to support cross-page filtering and drill-through analysis.
 
 ### Adidas Sales Analysis — Interactive Dashboard
-![image](adidas-dashboard.PNG)
+![image](ADIDAS DASHBOARD.png)
 Built an interactive Power BI dashboard analyzing Adidas retail sales, covering total orders, cost, revenue, and profit across regions, product categories, sales methods, and retailers, with quarterly, monthly, and seasonal trend breakdowns.
 
 ### Vanquish Backlogs — Data Driven Excel Project
