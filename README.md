@@ -1,77 +1,41 @@
-# My-Portfolio
-<!--Section 1: Introduce your self-->
+# 👋 Akintoye Samuel — Data Analyst Portfolio
+
 ## ABOUT ME
+Hi, I'm **Akintoye Samuel** 🤓 — a data analyst passionate about turning raw data into clear, actionable insights. I specialize in Power BI and Excel dashboards, with a strong focus on data cleaning, modeling, and storytelling through visuals. While I'm early in my professional journey, I'm actively building real-world projects and looking for opportunities to grow and contribute.
 
-Hello! I'm Akintoye Samuel 🤓, a data analyst with a passion for turning data into actionable insights. I am 
-without real-life experience, i'm looking forward to working with you and build-up my skills.
-
-<!--Mention your top/relevant skills here - core and soft skills-->
 ## SKILLS
+- ✅ Data Cleaning & Transformation
+- ✅ Data Wrangling
+- ✅ Data Visualization & Modelling
+- ✅ DAX & Data Modeling (Power BI)
+- ✅ Dashboard Design (Power BI & Excel)
 
-**- ✅ Data Cleaning and Trnsformation.** 
+## TOOLS
+`Power BI` · `Microsoft Excel` · `Power Query` · `DAX` · `SQL`
 
-**- ✅ Data Wrangling.**
+---
 
-**- ✅ Data Visualization and Modelling.**
-
-
-
-<!--Section 2: List 3-4 key projects-->
-## MY PORTFOLIO 
-
+## 📊 PORTFOLIO
 *A glimpse of some of the projects I've been working on.*
 
-**Personal Project at Data Driven Excel: Vanquish Backlogs.**
-![image](Vanquish backlogs.PNG)
+### FIFA World Cup 2026 Analytics Dashboard
+![image](fifa-player-overview.PNG)
+![image](fifa-team-overview.PNG)
+![image](fifa-match-overview.PNG)
 
-Utilized Power BI to perform sentiment analysis that shows the drivers’ info, delivery delays, customers’ feedback and total order made of the delivery company.
+A 3-page Power BI capstone project analyzing FIFA World Cup 2026 performance data end-to-end — from raw CSV through a normalized data model to a fully interactive multi-page report.
 
+- **Player Performance Page:** Tracks top goal scorers and assist leaders, best goalkeeper stats (clean sheets & saves), goal distribution by age group, and player breakdowns by position.
+- **Team Overview Page:** Compares team-level shots, shots on target, goals, and expected goals (xG); highlights top-scoring teams, most-fouling teams, and clean sheet leaders.
+- **Match Overview Page:** Breaks down knockout stage progression (RO32 → Final), average xG by stage, goals conceded per round, goal types by match/stadium, and knockout stage fouls — filterable by Group Stage vs. Knockouts.
+- Built with custom DAX measures and a normalized data model to support cross-page filtering and drill-through analysis.
 
-**Beyondcars Sales Analysis/Report.**
+### Adidas Sales Analysis — Interactive Dashboard
+![image](adidas-dashboard.PNG)
+Built an interactive Power BI dashboard analyzing Adidas retail sales, covering total orders, cost, revenue, and profit across regions, product categories, sales methods, and retailers, with quarterly, monthly, and seasonal trend breakdowns.
 
-![image](Car Sales Analysis.PNG) 
+### Vanquish Backlogs — Data Driven Excel Project
+![image](vanquish-backlogs.PNG)
+Utilized Power BI to perform sentiment analysis showing drivers' info, delivery delays, customer feedback, and total orders made by the delivery company.
 
-Created a dashbord to hlp visualize the total number of cars sold, different car brands and models purchased.
-
-**HR Attrition Interactive Dashboard.**
-
-![image](HR Attrition Dashboard.PNG)
-
-Created a dashboard on Excel & Power BI to help analyze total number of staffs, attrition rate, number of attrition and number of active staffs.
-
-
-
-
-## CONTACT DETAILS
-
-*Let’s connect and see how we can make a difference together!*
-<table>
-  <tbody>
-    <tr>
-      <td>📧</td>
-      <td><a href="mailto:samuelakintoye0775@gmail.com">samuelakintoye0775@gmail.com@gmail.com</a></td>
-    </tr>
-    <tr>
-      <td>📞</td>
-      <td>(234) 704-476-0775</td>
-    </tr>
-    <tr>
-      <td>📍</td>
-      <td>Lagos, Nigeria</td>
-    </tr>
-    <tr>
-      <td>⬇️</td>
-      <td><a href="Resume-1.docx">Download my CV</a></td>
-    </tr>
-    <tr>
-      <td>🌐</td>
-      <td><a href="https://www.linkedin.com/in/samuel-akintoye-62505b329/">The things I do daily on LinkedIn</a></td>
-    </tr>
-  </tbody>
-</table>
-
-   
-
-
-
-
+### BeyondCars Sales Analysis/Report
