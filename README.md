@@ -20,7 +20,7 @@ Hi, I'm **Akintoye Samuel** 🤓 — a data analyst passionate about turning raw
 
 ### FIFA World Cup 2026 Analytics Dashboard
 ![image](Screenshot 2026-08-04 091138.png)
-![image](fifa-team-overview.PNG)
+![image](Screenshot 2026-08-04 091215.png)
 ![image](fifa-match-overview.PNG)
 
 A 3-page Power BI capstone project analyzing FIFA World Cup 2026 performance data end-to-end — from raw CSV through a normalized data model to a fully interactive multi-page report.
