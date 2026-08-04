@@ -19,7 +19,7 @@ Hi, I'm **Akintoye Samuel** 🤓 — a data analyst passionate about turning raw
 *A glimpse of some of the projects I've been working on.*
 
 ### FIFA World Cup 2026 Analytics Dashboard
-![image](fifa-player-overview.PNG)
+![image](Screenshot 2026-08-04 091138.png)
 ![image](fifa-team-overview.PNG)
 ![image](fifa-match-overview.PNG)
 
