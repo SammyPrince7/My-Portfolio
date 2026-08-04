@@ -19,8 +19,8 @@ Hi, I'm **Akintoye Samuel** 🤓 — a data analyst passionate about turning raw
 *A glimpse of some of the projects I've been working on.*
 
 ### FIFA World Cup 2026 Analytics Dashboard
-![image](Screenshot 2026-08-04 091138.png)
-![image](Screenshot 2026-08-04 091215.png)
+![image](fifa-player-overview.PNG)
+![image](fifa-team-overview.PNG)
 ![image](fifa-match-overview.PNG)
 
 A 3-page Power BI capstone project analyzing FIFA World Cup 2026 performance data end-to-end — from raw CSV through a normalized data model to a fully interactive multi-page report.
@@ -31,7 +31,7 @@ A 3-page Power BI capstone project analyzing FIFA World Cup 2026 performance dat
 - Built with custom DAX measures and a normalized data model to support cross-page filtering and drill-through analysis.
 
 ### Adidas Sales Analysis — Interactive Dashboard
-![image](ADIDAS DASHBOARD.png)
+![image](adidas-dashboard.PNG)
 Built an interactive Power BI dashboard analyzing Adidas retail sales, covering total orders, cost, revenue, and profit across regions, product categories, sales methods, and retailers, with quarterly, monthly, and seasonal trend breakdowns.
 
 ### Vanquish Backlogs — Data Driven Excel Project
@@ -39,3 +39,39 @@ Built an interactive Power BI dashboard analyzing Adidas retail sales, covering 
 Utilized Power BI to perform sentiment analysis showing drivers' info, delivery delays, customer feedback, and total orders made by the delivery company.
 
 ### BeyondCars Sales Analysis/Report
+![image](car-sales-analysis.PNG)
+Created a dashboard to visualize the total number of cars sold, along with different car brands and models purchased.
+
+### HR Attrition Interactive Dashboard
+![image](hr-attrition-dashboard.PNG)
+Created a dashboard in Excel & Power BI to analyze total staff count, attrition rate, number of attritions, and number of active staff.
+
+---
+
+## 📬 CONTACT DETAILS
+*Let's connect and see how we can make a difference together!*
+
+<table>
+  <tbody>
+    <tr>
+      <td>📧</td>
+      <td><a href="mailto:samuelakintoye0775@gmail.com">samuelakintoye0775@gmail.com</a></td>
+    </tr>
+    <tr>
+      <td>📞</td>
+      <td>(234) 704-476-0775</td>
+    </tr>
+    <tr>
+      <td>📍</td>
+      <td>Lagos, Nigeria</td>
+    </tr>
+    <tr>
+      <td>⬇️</td>
+      <td><a href="Resume-1.docx">Download my CV</a></td>
+    </tr>
+    <tr>
+      <td>🌐</td>
+      <td><a href="https://www.linkedin.com/in/samuel-akintoye-62505b329/">Connect with me on LinkedIn</a></td>
+    </tr>
+  </tbody>
+</table>
