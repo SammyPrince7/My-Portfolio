@@ -30,9 +30,23 @@ A 3-page Power BI capstone project analyzing FIFA World Cup 2026 performance dat
 - **Match Overview Page:** Breaks down knockout stage progression (RO32 → Final), average xG by stage, goals conceded per round, goal types by match/stadium, and knockout stage fouls — filterable by Group Stage vs. Knockouts.
 - Built with custom DAX measures and a normalized data model to support cross-page filtering and drill-through analysis.
 
+---
+
+## 🐍 PYTHON & DATA SCIENCE
+*Code-first analysis and exploratory data science work.*
+
+### Adult Income — Exploratory Data Analysis
+![image](adult-income-education-chart.png)
+Exploratory analysis of the UCI Adult/Census Income dataset, examining which demographic, educational, and employment factors associate with earning above $50K. Cleaned and de-duplicated the raw data, engineered age and work-hour bands, and compared income *rates* rather than raw counts across education, occupation, marital status, and hours worked to avoid group-size bias. Wrapped up with a correlation matrix and multivariate breakdowns (education × sex, age × hours) to surface which factors move together.
+
+**Tools:** `Python` · `Pandas` · `Seaborn` · `Matplotlib`
+**Notebook:** [View on GitHub](https://github.com/sammyprince7/My-Portfolio/blob/main/Adult%20Income.ipynb)
+
+---
+
 ### Adidas Sales Analysis — Interactive Dashboard
 ![image](ADIDAS%20DASHBOARD.png)
-Built an interactive Power BI dashboard analyzing Adidas retail sales, covering total orders, cost, revenue, and profit across regions, product categories, sales methods, and retailers, with quarterly, monthly, and seasonal trend breakdowns.
+Built an interactive Excel dashboard analyzing Adidas retail sales, covering total orders, cost, revenue, and profit across regions, product categories, sales methods, and retailers, with quarterly, monthly, and seasonal trend breakdowns. Built using Excel and Power Query.
 
 ### Vanquish Backlogs — Data Driven Excel Project
 ![image](Vanquish%20backlogs.PNG)
