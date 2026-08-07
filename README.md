@@ -36,7 +36,7 @@ A 3-page Power BI capstone project analyzing FIFA World Cup 2026 performance dat
 *Code-first analysis and exploratory data science work.*
 
 ### Adult Income — Exploratory Data Analysis
-![image](adult-income-education-chart.png)
+![image](adult-income-age-hours-heatmap.png")
 Exploratory analysis of the UCI Adult/Census Income dataset, examining which demographic, educational, and employment factors associate with earning above $50K. Cleaned and de-duplicated the raw data, engineered age and work-hour bands, and compared income *rates* rather than raw counts across education, occupation, marital status, and hours worked to avoid group-size bias. Wrapped up with a correlation matrix and multivariate breakdowns (education × sex, age × hours) to surface which factors move together.
 
 **Tools:** `Python` · `Pandas` · `Seaborn` · `Matplotlib`
